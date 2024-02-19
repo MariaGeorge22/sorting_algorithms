@@ -1,0 +1,31 @@
+# tests
+0-test.c
+1-test.c
+2-test.c
+3-test.c
+100-test.c
+101-test.c
+102-test.c
+103-test.c
+
+# main
+main.c
+
+# test header
+tests.h
+
+# outputs
+0-output.txt
+1-output.txt
+2-output.txt
+3-output.txt
+100-output.txt
+101-output.txt
+102-output.txt
+103-output.txt
+
+# executable
+test
+
+# mains
+0-main.c
